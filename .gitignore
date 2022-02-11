@@ -56,6 +56,9 @@ terraform.rc
 .history
 .ionide
 
+# PDF
+*.pdf
+
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,terraform
