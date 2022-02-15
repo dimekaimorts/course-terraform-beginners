@@ -1,8 +1,8 @@
 
 variable "credentials_lucy" {
-    type = map(string)
+    type        = map(string)
     description = "Credentials used for lucy user"
-    default = null
+    default     = null
 }
 
 variable "project_region" {
