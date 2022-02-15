@@ -58,6 +58,7 @@ terraform.rc
 
 # PDF
 *.pdf
+*.txt
 
 # Support for Project snippet scope
 
