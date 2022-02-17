@@ -60,3 +60,4 @@ terraform.rc
 *.pdf
 *.txt
 *-policy.json
+.csv
